@@ -76,6 +76,7 @@ Before running the application, you need to have the following installed:
 
 
 **Usage**
+
 Simply run the main Python script from your terminal:
 
 ```python
