@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langchain-core
+ollama
+chromadb
+sentence-transformers
+python-dotenv
