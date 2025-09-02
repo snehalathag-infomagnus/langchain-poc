@@ -75,9 +75,8 @@ Before running the application, you need to have the following installed:
     (This PoC does not require them for core functionality, but it's good practice for future expansion.)
 
 **Usage** 
-Simply run the main Python script from your terminal: 
-    ```bash
-    python main.py
-    ```
+Simply run the main Python script from your terminal: ```bash
+python main.py
+```
 
 The script will process the sample emails, and you will see the output for each step: summarization, classification, and the agent's thought process as it decides and executes an action.
