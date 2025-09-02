@@ -75,7 +75,7 @@ Before running the application, you need to have the following installed:
     (This PoC does not require them for core functionality, but it's good practice for future expansion.)
 
 **Usage** 
-Simply run the main Python script from your terminal: ```bash
+Simply run the main Python script from your terminal: ```python
 python main.py
 ```
 
