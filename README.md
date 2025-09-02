@@ -80,4 +80,4 @@ Simply run the main Python script from your terminal:
     python main.py
     ```
 
-    The script will process the sample emails, and you will see the output for each step: summarization, classification, and the agent's thought process as it decides and executes an action.
+The script will process the sample emails, and you will see the output for each step: summarization, classification, and the agent's thought process as it decides and executes an action.
