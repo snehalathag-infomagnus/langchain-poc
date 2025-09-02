@@ -74,8 +74,11 @@ Before running the application, you need to have the following installed:
     Create a .env file in the root directory and add any necessary API keys.
     (This PoC does not require them for core functionality, but it's good practice for future expansion.)
 
-**Usage** 
-Simply run the main Python script from your terminal: ```python
+
+**Usage**
+Simply run the main Python script from your terminal:
+
+```python
 python main.py
 ```
 
